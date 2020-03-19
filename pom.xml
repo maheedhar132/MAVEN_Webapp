@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.denofprogramming</groupId>
-	<artifactId>sampleWebApp</artifactId>
+	<artifactId>sample</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>${BUILD_NUMBER}</version>
 
 	<name>Number Generator WebApp</name>
 	<url>http://denofprogramming.com</url>
